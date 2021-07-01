@@ -1,0 +1,27 @@
+Lucido 00:
+
+Applicazioni di algoritmi e della teoria.
+Un progetto da realizzare, consegnato una settimana prima dell'inizio dell'esame. 
+Si consegna su IOL. Una settimana per sottomettere il progetto e una di correzione.
+Creare algoritmi a livello generale nell'elaborato da consegnare.
+
+Il numero di variabili nella printf deve essere uguale a quelli dei marcatori altrimenti
+non funzionerebbe la funzione e ci darebbe errore.
+
+clock resituisce il tempo della CPU quando questa viene chiamata. Se usata prima e dopo di un
+blocco di codice potremo sapere quanto tempo è passato nell'esecuzione del blocco stesso.
+
+I due parmetri di main: argv contiene quanti elementi quanto vale argc. 
+Il debugger attivo o no incide sul tempo di esecuzione.
+
+Leggere un file di testo:
+Sfruttare dati già disponibili
+le funzioni del file sono considerate datate da visual studio e ci segna errore. ci suggerisce
+versioni più sicure. 
+Nella seconda chiamata di strtok ci va il NULL perchè nella prima si prende 
+la linea e si ferma al separatore e resituisce tutto ciò che abbiamo prima dell virgola. Con il NULL 
+si dice di avere lo stato della stringa invariato e quindi capisce che deve leggere la riga fino
+alla fine e poi legge dal separatore alla fine e poi restituisce.
+
+Esercitazione:
+Algoritmo di Euclide. Dati due numeri calcolare MCD.

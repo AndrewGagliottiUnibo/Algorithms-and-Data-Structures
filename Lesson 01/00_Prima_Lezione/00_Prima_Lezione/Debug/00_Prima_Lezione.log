@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\andre\Desktop\Algoritmi e strutture dati\Laboratorio\Lesson 01\00_Prima_Lezione\00_Prima_Lezione\main.c(12,10): warning C4013: 'atoi' undefined; assuming extern returning int
+C:\Users\andre\Desktop\Algoritmi e strutture dati\Laboratorio\Lesson 01\00_Prima_Lezione\00_Prima_Lezione\main.c(27,15): warning C4013: 'euclide' undefined; assuming extern returning int
+C:\Users\andre\Desktop\Algoritmi e strutture dati\Laboratorio\Lesson 01\00_Prima_Lezione\00_Prima_Lezione\main.c(30,20): warning C4013: 'euclide_iter' undefined; assuming extern returning int
+  00_Prima_Lezione.vcxproj -> C:\Users\andre\Desktop\Algoritmi e strutture dati\Laboratorio\Lesson 01\00_Prima_Lezione\Debug\00_Prima_Lezione.exe
